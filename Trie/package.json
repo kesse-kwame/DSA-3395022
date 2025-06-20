@@ -1,0 +1,27 @@
+{
+  "name": "trie-data-structure",
+  "version": "1.0.0",
+  "description": "A JavaScript implementation of the Trie (prefix tree) data structure",
+  "main": "trie.js",
+  "scripts": {
+    "start": "node trie.js",
+    "test": "node trie.js"
+  },
+  "keywords": [
+    "trie",
+    "prefix-tree",
+    "data-structure",
+    "algorithm",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/trie-data-structure.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/trie-data-structure/issues"
+  },
+  "homepage": "https://github.com/yourusername/trie-data-structure#readme"
+} 
